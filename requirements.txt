@@ -1,0 +1,14 @@
+langchain==0.1.0
+langchain-community
+pypdf2
+python-docx
+unstructured
+tiktoken
+sentence-transformers
+faiss-cpu
+chromadb
+ollama
+streamlit
+gradio
+python-dotenv
+tqdm
